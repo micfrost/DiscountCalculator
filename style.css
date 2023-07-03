@@ -1,0 +1,75 @@
+body {
+  font-family: Montserrat, sans-serif;
+  margin: 0;
+  color: #a14a76;
+  background-color: #f8f5f4;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  min-height: 100vh;
+  background: #f8f5f4;
+  background: linear-gradient(180deg, #f8f5f4 0%, #fbc2b5 100%);
+}
+
+main {
+  max-width: 400px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+
+  background-color: #fbc2b5;
+  background-color: #ffa8a9;
+  background-color: #f786aa;
+  background-color: #a14a76;
+  background-color: #eadad6;
+
+  background-color: #f8f5f4;
+
+  border-radius: 10px;
+  border: #f786aa 1px solid;
+
+  background: #f8f5f4;
+  background: linear-gradient(180deg, #fbc2b5 0%, #f8f5f4 100%);
+}
+
+/* 
+Colors
+FBC2B5 
+FFA8A9
+F786AA
+A14A76
+cdb2ab 
+*/
+
+input,
+select {
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0;
+  border: #a14a76 1px solid;
+  outline: none;
+  font-size: large;
+  color: #a14a76;
+  width: 30%;
+  background-color: #fff;
+}
+
+button {
+  width: 85%;
+  padding: 10px;
+  border-radius: 20px;
+  border: #a14a76 1px solid;
+  font-size: 15px;
+  margin: 10px 0;
+  outline: none;
+  cursor: pointer;
+  color: #a14a76;
+  font-weight: bold;
+}
+
+.btnYes {
+  background-color: #a14a76;
+  color: #f8f5f4;
+}
